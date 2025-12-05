@@ -1,7 +1,7 @@
 # Hello, I'm Lionel
 <a href="[https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>](https://www.linkedin.com/in/lionel-sango-417681273/)
 
-[Brief Introduction - Remove this afterwards]
+[Brief Introduction]
 
 I am a recent graduate with a profound interest in cybersecurity, technology and a dedication to solving complex problems.
 
