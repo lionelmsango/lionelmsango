@@ -186,21 +186,6 @@ Cloud identity and productivity platform:
 
 </div>
 
----
-
-## 💼 Professional Experience Highlights
-
-**Scientific Research Assistant** (2019-2025)
-- **Heidelberg University** (2022-2025): Complex data analysis, technical documentation, teaching BA courses
-- **University of Bonn** (2019-2022): Project leadership, cross-team collaboration, technical reporting
-
-**Transferable Skills:**
-- ✅ Analytical thinking and problem-solving
-- ✅ Technical documentation and knowledge transfer
-- ✅ Teaching and training diverse audiences
-- ✅ Cross-functional teamwork
-- ✅ Professional communication
-
 
 ---
 
