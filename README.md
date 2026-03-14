@@ -23,13 +23,6 @@ I am a postgraduate and **IT Support/System Administration and Cybersecurity Spe
 
 My journey from academic research to IT has equipped me with strong analytical skills, technical documentation expertise, and a passion for solving complex technical problems. I specialize in building and managing IT infrastructure, implementing security solutions, and supporting diverse user environments. 
 
-**What I Bring:**
-- Self-directed learning and rapid skill acquisition
-- Strong troubleshooting and problem-solving abilities
-- Professional documentation and communication skills
-- Practical experience with enterprise technologies
-- Bilingual: German (C1) & English (Native)
-
 ---
 
 ## 🛠️ Technical Skills & Projects
