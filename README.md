@@ -41,6 +41,7 @@ My journey from academic research to IT has equipped me with strong analytical s
 | **Jira IT Support System** | [jira-it-support-system](https://github.com/lionelmsango/jira-it-support-system) | Jira, Confluence, Automation, SLA Management | Complete ticketing workflow: 10 tickets, 92% SLA, 4.2 min P1 response, 5 KB articles, 5 automation rules |
 | **GNS3 Network Lab** | [small-office-network-gns3](https://github.com/lionelmsango/small-office-network-gns3-) | GNS3, VirtualBox, VPCS, Wireshark | Small office network simulation: NAT, switching, 192.168.1.0/24 subnet, connectivity testing |
 | **Microsoft 365 Administration** | [m365-administration-lab](https://github.com/lionelmsango/m365-administration-demo/tree/main) | Microsoft 365, Entra ID, MFA, Conditional Access | 50+-user organization setup, MFA deployment, security policies, bulk provisioning |
+| **Detection Lab** | [detection-lab](https://github.com/lionelmsango/m365-administration-demo/tree/main) | Splunk, Windows Event Logs, Sysmon|
 
 ---
 
