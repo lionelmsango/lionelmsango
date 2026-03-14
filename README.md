@@ -3,7 +3,6 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lionel%20Sango-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lionel-sango-417681273/)
-[![GitHub](https://img.shields.io/badge/GitHub-lionelmsango-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lionelmsango)
 [![Email](https://img.shields.io/badge/Email-lionel.m.sango%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lionel.m.sango@gmail.com)
 
 </div>
@@ -18,15 +17,11 @@ I am an **IT Support & System Administration Specialist** with a strong foundati
 
 **Current Focus:** Building enterprise-grade home labs to master IT infrastructure, network security, and system administration
 
-📍 **Location:** Köln, Germany (Open to relocation across Germany)  
-🔧 **Specialization:** IT Infrastructure, Network Security, System Administration, Multi-OS Environments  
-🎯 **Career Goal:** IT Infrastructure & Network Security roles in German organizations (NGOs, Tech Companies, Enterprises)
-
 ---
 
 ## 🎯 Objective
 
-My journey from academic research to IT has equipped me with strong analytical skills, technical documentation expertise, and a passion for solving complex technical problems. I specialize in building and managing IT infrastructure, implementing security solutions, and supporting diverse user environments. Currently seeking opportunities in **IT Infrastructure Management**, **Network Administration**, or **IT Support** roles where I can apply my hands-on lab experience to real-world enterprise environments.
+My journey from academic research to IT has equipped me with strong analytical skills, technical documentation expertise, and a passion for solving complex technical problems. I specialize in building and managing IT infrastructure, implementing security solutions, and supporting diverse user environments. 
 
 **What I Bring:**
 - Self-directed learning and rapid skill acquisition
