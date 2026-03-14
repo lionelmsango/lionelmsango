@@ -140,7 +140,7 @@ Production-grade IT support workflow implementation:
 - ✅ 92% SLA compliance rate
 - ✅ 4.2 minute average P1 response time
 - ✅ 47.5 minute average P1 resolution time
-- ✅ 8 Knowledge Base articles
+- ✅ 5 Knowledge Base articles
 - ✅ 5 automation rules for efficiency
 
 **Skills Demonstrated:** ITSM, SLA Management, Workflow Automation, Documentation, Metrics & Reporting
@@ -148,7 +148,7 @@ Production-grade IT support workflow implementation:
 ---
 
 ### 🌐 GNS3 Network Simulation
-**Repository:** [small-office-network-gns3](https://github.com/lionelmsango/small-office-network-gns3)
+**Repository:** [small-office-network-gns3](https://github.com/lionelmsango/small-office-network-gns3-)
 
 Small office network from scratch:
 - ✅ GNS3 network simulation platform
@@ -162,7 +162,7 @@ Small office network from scratch:
 ---
 
 ### ☁️ Microsoft 365 Administration
-**Repository:** [m365-administration-lab](https://github.com/lionelmsango/m365-administration-lab)
+**Repository:** [m365-administration-lab](https://github.com/lionelmsango/m365-administration-demo)
 
 Cloud identity and productivity platform:
 - ✅ User organization setup
