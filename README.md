@@ -1,6 +1,6 @@
 # Hello, I'm Lionel 👋
 
-<div align="center">
+<div align="left">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lionel%20Sango-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lionel-sango-417681273/)
 [![Email](https://img.shields.io/badge/Email-lionel.m.sango%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lionel.m.sango@gmail.com)
@@ -37,10 +37,10 @@ My journey from academic research to IT has equipped me with strong analytical s
 | Project Title | Repository | Technologies Used | Description |
 |--------------|------------|-------------------|-------------|
 | **pfSense Firewall Lab (VMware)** | [pfsense-vmware-homelab](https://github.com/lionelmsango/pfsense-vmware-homelab) | pfSense 2.7, VMware Workstation, Windows 11, Ubuntu 24.04 | Enterprise-grade firewall with dual WAN/LAN interfaces, DHCP server (100+ IPs), NAT, custom security policies, multi-OS test environment |
-| **Active Directory Home Lab** | [active-directory-lab](https://github.com/lionelmsango/active-directory-lab) | Windows Server, Active Directory, Microsoft Entra ID, Azure, PowerShell | Hybrid AD environment with 18 OUs, 15 users, 8 groups, 6 GPOs, PowerShell automation |
-| **Jira IT Support System** | [jira-it-support-system](https://github.com/lionelmsango/jira-it-support-system) | Jira, Confluence, Automation, SLA Management | Complete ticketing workflow: 25 tickets, 92% SLA, 4.2 min P1 response, 8 KB articles, 5 automation rules |
-| **GNS3 Network Lab** | [small-office-network-gns3](https://github.com/lionelmsango/small-office-network-gns3) | GNS3, VirtualBox, VPCS, Wireshark | Small office network simulation: NAT, switching, 192.168.1.0/24 subnet, connectivity testing |
-| **Microsoft 365 Administration** | [m365-administration-lab](https://github.com/lionelmsango/m365-administration-lab) | Microsoft 365, Entra ID, MFA, Conditional Access | 50-user organization setup, MFA deployment, security policies, bulk provisioning |
+| **Active Directory Home Lab** | [active-directory-lab](https://github.com/lionelmsango/active-directory-lab) | Windows Server, Active Directory, Microsoft Entra ID, Azure, PowerShell | Hybrid AD environment with OUs, users, groups, GPOs, PowerShell automation |
+| **Jira IT Support System** | [jira-it-support-system](https://github.com/lionelmsango/jira-it-support-system) | Jira, Confluence, Automation, SLA Management | Complete ticketing workflow: 10 tickets, 92% SLA, 4.2 min P1 response, 5 KB articles, 5 automation rules |
+| **GNS3 Network Lab** | [small-office-network-gns3](https://github.com/lionelmsango/small-office-network-gns3-) | GNS3, VirtualBox, VPCS, Wireshark | Small office network simulation: NAT, switching, 192.168.1.0/24 subnet, connectivity testing |
+| **Microsoft 365 Administration** | [m365-administration-lab](https://github.com/lionelmsango/m365-administration-demo/tree/main) | Microsoft 365, Entra ID, MFA, Conditional Access | 50+-user organization setup, MFA deployment, security policies, bulk provisioning |
 
 ---
 
