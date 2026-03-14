@@ -11,11 +11,11 @@
 
 ## 👨‍💻 About Me
 
-I am an **IT Support & System Administration Specialist** with a strong foundation in network infrastructure, security, and multi-OS environments. My GitHub showcases hands-on technical projects demonstrating practical skills in enterprise IT infrastructure management.
+I am a postgraduate and **IT Support/System Administration and Cybersecurity Specialist** with a strong foundation in network infrastructure, security, and multi-OS environments. My GitHub showcases hands-on technical projects demonstrating practical skills in enterprise IT infrastructure management.
 
 **Background:** M.A. in English Linguistics & Computational Linguistics | Former Academic Researcher turned IT Professional
 
-**Current Focus:** Building enterprise-grade home labs to master IT infrastructure, network security, and system administration
+**Current Focus:** Building enterprise-grade home labs to master IT Infrastructure, System Administration, Network security and Incident detection and Response. 
 
 ---
 
@@ -86,7 +86,7 @@ My journey from academic research to IT has equipped me with strong analytical s
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+
 
 ---
 
@@ -111,7 +111,7 @@ My journey from academic research to IT has equipped me with strong analytical s
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🔥 pfSense Firewall Home Lab
 **Repository:** [pfsense-vmware-homelab](https://github.com/lionelmsango/pfsense-vmware-homelab)
@@ -122,24 +122,23 @@ Built a complete enterprise-grade network security lab from scratch:
 - ✅ DHCP server configured for 100+ IP addresses
 - ✅ NAT implementation for internet access
 - ✅ Custom firewall rules with bidirectional traffic control
-- ✅ Complete documentation with 43 screenshots
+- ✅ Complete documentation with screenshots
 
 **Skills Demonstrated:** Firewall Administration, Network Segmentation, DHCP/NAT, Multi-OS Support, VMware Virtualization
 
 ---
 
-### 🏢 Active Directory & Hybrid Cloud Lab
+### 🏢 Active Directory 
 **Repository:** [active-directory-lab](https://github.com/lionelmsango/active-directory-lab)
 
 Enterprise-grade identity management environment:
 - ✅ Windows Server as Domain Controller
-- ✅ 18 Organizational Units (German naming scheme)
-- ✅ 15 users, 8 security groups, 6 Group Policy Objects
+- ✅ Organizational Units (German naming scheme)
+- ✅ Users, security groups and Group Policy Objects
 - ✅ Hybrid Active Directory/Entra ID integration
 - ✅ Azure connectivity for cloud sync
-- ✅ PowerShell automation scripts
 
-**Skills Demonstrated:** Active Directory, Group Policy, PowerShell, Hybrid Cloud, Identity Management
+**Skills Demonstrated:** Active Directory, Group Policy, Hybrid Cloud, Identity Management
 
 ---
 
@@ -167,9 +166,8 @@ Small office network from scratch:
 - ✅ Ethernet switch configuration
 - ✅ 3 VPCS (Virtual PCs) with IP configuration
 - ✅ 192.168.1.0/24 subnet design
-- ✅ Wireshark packet analysis
 
-**Skills Demonstrated:** Network Design, Subnetting, TCP/IP, Switching, Wireshark Analysis
+**Skills Demonstrated:** Network Design, Subnetting, TCP/IP, Switching
 
 ---
 
@@ -177,7 +175,7 @@ Small office network from scratch:
 **Repository:** [m365-administration-lab](https://github.com/lionelmsango/m365-administration-lab)
 
 Cloud identity and productivity platform:
-- ✅ 50-user organization setup
+- ✅ User organization setup
 - ✅ Multi-Factor Authentication (MFA) deployment
 - ✅ Conditional Access policies
 - ✅ Bulk user provisioning
@@ -211,17 +209,7 @@ Cloud identity and productivity platform:
 - ✅ Technical documentation and knowledge transfer
 - ✅ Teaching and training diverse audiences
 - ✅ Cross-functional teamwork
-- ✅ German & English professional communication
-
----
-
-## 🎓 Education
-
-**M.A. English Linguistics & Computational Linguistics**  
-University of Bayreuth, Germany
-
-**B.A. English Linguistics**  
-University of Buea, Cameroon
+- ✅ Professional communication
 
 ---
 
@@ -231,13 +219,13 @@ University of Buea, Cameroon
 
 **📚 Self-Directed Learning:** Built 5+ production-grade home labs independently using industry documentation and best practices
 
-**🌍 Bilingual Professional:** Native English speaker with C1 German proficiency - perfect for international teams
+**🌍 Bilingual Professional:** Native English speaker with C1 German proficiency, perfect for international teams
 
 **🔧 Practical Experience:** Every project demonstrates real-world enterprise scenarios, not just tutorials
 
 **📖 Documentation Excellence:** Academic background ensures clear, professional, detailed technical documentation
 
-**🎯 Business Understanding:** Projects tailored to real organizational needs (e.g., 100-user environments matching Germanwatch scale)
+**🎯 Business Understanding:** Projects tailored to real organizational needs (e.g., 100+-user environments)
 
 ---
 
@@ -247,8 +235,6 @@ University of Buea, Cameroon
 **Contact Information:**
 - 📧 Email: [lionel.m.sango@gmail.com](mailto:lionel.m.sango@gmail.com)
 - 💼 LinkedIn: [Lionel Sango](https://www.linkedin.com/in/lionel-sango-417681273/)
-- 📱 Phone: +49 157 86360952
-- 📍 Location: Köln, Germany (Deutschlandweit umzugsbereit)
 - 🔗 GitHub: [github.com/lionelmsango](https://github.com/lionelmsango)
 
 ---
@@ -265,8 +251,6 @@ University of Buea, Cameroon
 ---
 
 <div align="center">
-
-### "Technology is best when it brings people together." - Matt Mullenweg
 
 **Thank you for visiting my GitHub!**  
 ⭐ **Star my repositories** if you find them helpful!  
