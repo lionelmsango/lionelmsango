@@ -13,10 +13,6 @@
 
 I am a postgraduate and **IT Support/System Administration and Cybersecurity Specialist** with a strong foundation in network infrastructure, security, and multi-OS environments. My GitHub showcases hands-on technical projects demonstrating practical skills in enterprise IT infrastructure management.
 
-**Background:** M.A. in English Linguistics & Computational Linguistics | Former Academic Researcher turned IT Professional
-
-**Current Focus:** Building enterprise-grade home labs to master IT Infrastructure, System Administration, Network security and Incident detection and Response. 
-
 ---
 
 ## 🎯 Objective
