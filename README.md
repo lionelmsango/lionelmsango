@@ -201,21 +201,6 @@ Cloud identity and productivity platform:
 - ✅ Cross-functional teamwork
 - ✅ Professional communication
 
----
-
-## 🌟 What Makes Me Different
-
-**🔄 Career Transition Success:** Pivoted from academic research to IT through intensive self-study and hands-on lab projects
-
-**📚 Self-Directed Learning:** Built 5+ production-grade home labs independently using industry documentation and best practices
-
-**🌍 Bilingual Professional:** Native English speaker with C1 German proficiency, perfect for international teams
-
-**🔧 Practical Experience:** Every project demonstrates real-world enterprise scenarios, not just tutorials
-
-**📖 Documentation Excellence:** Academic background ensures clear, professional, detailed technical documentation
-
-**🎯 Business Understanding:** Projects tailored to real organizational needs (e.g., 100+-user environments)
 
 ---
 
@@ -246,7 +231,6 @@ Cloud identity and productivity platform:
 ⭐ **Star my repositories** if you find them helpful!  
 🔔 **Follow me** for updates on new projects!
 
-![Profile Views](https://komarev.com/ghpvc/?username=lionelmsango&color=brightgreen&style=for-the-badge)
 
 </div>
 
