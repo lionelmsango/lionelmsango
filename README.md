@@ -174,18 +174,8 @@ Cloud identity and productivity platform:
 
 **Skills Demonstrated:** Cloud Administration, Identity Security, M365 Management, Compliance
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Lionel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lionelmsango&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lionelmsango&layout=compact&theme=dark&hide_border=true)
 
 </div>
-
 
 ---
 
