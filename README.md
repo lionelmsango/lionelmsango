@@ -105,7 +105,7 @@ My journey from academic research to IT has equipped me with strong analytical s
 ## 🚀 Projects
 
 ### 🔥 SIEM (Wazuh) Home Lab
-**Repository:** [wazuh-siem-lab](https://github.com/lionelmsango/pfsense-vmware-homelab)
+**Repository:** [wazuh-siem-lab](https://github.com/lionelmsango/wazuh-siem-lab)
 
 Built a complete security monitoring infrastructure to detect threats in real-time:
 - ✅ Wazuh SIEM v4.9 deployed on Ubuntu Server 24.04 LTS
