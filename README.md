@@ -25,7 +25,7 @@ My journey from academic research to IT has equipped me with strong analytical s
 
 | Project Title | Repository | Technologies Used | Description |
 |--------------|------------|-------------------|-------------|
-| **Wazuh SIEM Lab** | [wazuh-siem-homelab](https://github.com/lionelmsango/wazuh-siem-lab) | Wazuh, VMware Workstation, Windows 11, Ubuntu 24.04 | Enterprise-grade SIEM, Real-time threat detection and log analysis, DHCP server, NAT|
+| **Wazuh SIEM Lab** | [wazuh-siem-homelab](https://github.com/lionelmsango/wazuh-siem-lab) | Wazuh, VMware Workstation, Windows 11, Ubuntu 24.04 | Enterprise-grade SIEM, real-time threat detection and log analysis, DHCP server, NAT|
 | **pfSense Firewall Lab (VMware)** | [pfsense-vmware-homelab](https://github.com/lionelmsango/pfsense-vmware-homelab) | pfSense 2.7, VMware Workstation, Windows 11, Ubuntu 24.04 | Enterprise-grade firewall with dual WAN/LAN interfaces, DHCP server (100+ IPs), NAT, custom security policies, multi-OS test environment |
 | **Active Directory Home Lab** | [active-directory-lab](https://github.com/lionelmsango/active-directory-lab) | Windows Server, Active Directory, Microsoft Entra ID, Azure, PowerShell | Hybrid AD environment with OUs, users, groups, GPOs, PowerShell automation |
 | **Jira IT Support System** | [jira-it-support-system](https://github.com/lionelmsango/jira-it-support-system) | Jira, Confluence, Automation, SLA Management | Complete ticketing workflow: 10 tickets, 92% SLA, 4.2 min P1 response, 5 KB articles, 5 automation rules |
