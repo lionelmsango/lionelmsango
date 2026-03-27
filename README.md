@@ -25,6 +25,9 @@ My journey from academic research to IT has equipped me with strong analytical s
 
 | Project Title | Repository | Technologies Used | Description |
 |--------------|------------|-------------------|-------------|
+| Project Title | Repository | Technologies Used | Description |
+|--------------|------------|-------------------|-------------|
+| **PowerShell IT Admin Automation** | [PowerShell-IT-Admin-Automation](https://github.com/lionelmsango/PowerShell-IT-Admin-Automation) | PowerShell 5.1, Active Directory, Windows Server 2022| Production-ready automation toolkit with 5 scripts for user lifecycle management | Automated onboarding (10 min → 30 sec, 95% reduction) | Secure offboarding with audit trail | CSV-based reporting (user inventory, group membership) | Bulk operations via CSV import |
 | **Veeam Backup Disaster Recovery Lab** | [veeam-backup-disaster-recovery-lab](https://github.com/lionelmsango/veeam-backup-disaster-recovery-lab) | Veeam Backup server, VMware Workstation, Windows Server 2022 | Full installation of Veeam Backup & Replication 13 | Windows 11, Ubuntu 24.04 | Two automated backup jobs created | Veeam agents deployed to target VMs and daily backup schedules configured|
 | **Wazuh SIEM Lab** | [wazuh-siem-homelab](https://github.com/lionelmsango/wazuh-siem-lab) | Wazuh, VMware Workstation, Windows 11, Ubuntu 24.04 | Enterprise-grade SIEM, real-time threat detection and log analysis, DHCP server, NAT|
 | **pfSense Firewall Lab (VMware)** | [pfsense-vmware-homelab](https://github.com/lionelmsango/pfsense-vmware-homelab) | pfSense 2.7, VMware Workstation, Windows 11, Ubuntu 24.04 | Enterprise-grade firewall with dual WAN/LAN interfaces, DHCP server (100+ IPs), NAT, custom security policies, multi-OS test environment |
@@ -104,6 +107,21 @@ My journey from academic research to IT has equipped me with strong analytical s
 ---
 
 ## 🚀 Projects
+
+### 🔧 PowerShell IT Admin Automation
+**Repository:** [PowerShell-IT-Admin-Automation](https://github.com/lionelmsango/PowerShell-IT-Admin-Automation)
+
+Built a production-ready automation toolkit to eliminate manual Active Directory user management:
+- ✅ 5 PowerShell scripts automating complete user lifecycle (onboarding, offboarding, auditing, bulk operations)
+- ✅ 95% time reduction in user provisioning (10 minutes → 30 seconds per employee)
+- ✅ Active Directory integration with automated OU placement and group membership assignment
+- ✅ CSV-based reporting for compliance audits (user inventory, group memberships)
+- ✅ Bulk operations via CSV import for scalable group management
+- ✅ Production-quality error handling (try/catch blocks) and comprehensive file-based logging
+- ✅ Zero external dependencies - works with built-in Windows Server modules only
+- ✅ Complete documentation with 20 screenshots showing implementation and testing
+
+**Skills Demonstrated:** PowerShell scripting and automation, Active Directory administration, User lifecycle management, Error handling and logging, CSV data processing, Production-ready code practices
 
 ### 🔥 SIEM (Wazuh) Home Lab
 **Repository:** [wazuh-siem-lab](https://github.com/lionelmsango/wazuh-siem-lab)
