@@ -25,6 +25,7 @@ My journey from academic research to IT has equipped me with strong analytical s
 
 | Project Title | Repository | Technologies Used | Description |
 |--------------|------------|-------------------|-------------|
+| **Azure Cloud Infrastructure Lab** | [Azure-Cloud-Infrastructure-Lab](https://github.com/lionelmsango/Azure-Cloud-Infrastructure-Lab) | Production-ready cloud infrastructure, Azure VNet segmentation| NSG security | automated backups | cost optimization (95% savings, <€1 total) | 
 | **PowerShell IT Admin Automation** | [PowerShell-IT-Admin-Automation](https://github.com/lionelmsango/PowerShell-IT-Admin-Automation) | PowerShell 5.1, Active Directory, Windows Server 2022| Production-ready automation toolkit with 5 scripts for user lifecycle management | Automated onboarding (10 min → 30 sec, 95% reduction) | Secure offboarding with audit trail | CSV-based reporting (user inventory, group membership) | Bulk operations via CSV import |
 | **Veeam Backup Disaster Recovery Lab** | [veeam-backup-disaster-recovery-lab](https://github.com/lionelmsango/veeam-backup-disaster-recovery-lab) | Veeam Backup server, VMware Workstation, Windows Server 2022 | Full installation of Veeam Backup & Replication 13 | Windows 11, Ubuntu 24.04 | Two automated backup jobs created | Veeam agents deployed to target VMs and daily backup schedules configured|
 | **Wazuh SIEM Lab** | [wazuh-siem-homelab](https://github.com/lionelmsango/wazuh-siem-lab) | Wazuh, VMware Workstation, Windows 11, Ubuntu 24.04 | Enterprise-grade SIEM, real-time threat detection and log analysis, DHCP server, NAT|
@@ -105,6 +106,23 @@ My journey from academic research to IT has equipped me with strong analytical s
 ---
 
 ## 🚀 Projects
+
+### ☁️ Azure Cloud Infrastructure Lab
+**Repository:** [Azure-Cloud-Infrastructure-Lab](https://github.com/lionelmsango/Azure-Cloud-Infrastructure-Lab)
+
+Built a production-ready cloud infrastructure on Microsoft Azure demonstrating enterprise IaaS deployment and cost optimization:
+- ✅ Virtual Network (10.1.0.0/16) with subnet segmentation for application servers
+- ✅ Network Security Groups with IP-restricted firewall rules (least-privilege access model)
+- ✅ Windows Server 2022 VM deployment with auto-shutdown configuration
+- ✅ Azure Blob Storage (LRS) with soft delete protection (7-day retention)
+- ✅ Recovery Services Vault with automated daily backups (30-day retention policy)
+- ✅ Cost Management with multi-threshold budget alerts (50%/75%/90%)
+- ✅ 95% cost reduction through VM deallocation strategy (~$40/month savings)
+- ✅ Network topology visualization via Azure Network Watcher
+- ✅ Total project cost: <€1 through strategic resource management
+- ✅ Complete documentation with network diagram and 17 implementation screenshots
+
+**Skills Demonstrated:** Azure cloud infrastructure, Virtual networking and subnetting, Network Security Groups (NSG), Windows Server administration, Azure Backup and disaster recovery, Cost management and optimization, Azure Blob Storage, PowerShell connectivity testing, Network monitoring and documentation
 
 ### 🔧 PowerShell IT Admin Automation
 **Repository:** [PowerShell-IT-Admin-Automation](https://github.com/lionelmsango/PowerShell-IT-Admin-Automation)
