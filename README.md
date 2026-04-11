@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I am a postgraduate and **IT Support/System Administration and Cybersecurity Specialist** with a strong foundation in network infrastructure, security, and multi-OS environments. My GitHub showcases hands-on technical projects demonstrating practical skills in enterprise IT infrastructure management.
+I am a postgraduate and **IT System Administrator and Cybersecurity Specialist** with a strong foundation in network infrastructure, cloud architecture, security, and multi-OS environments. My GitHub showcases hands-on technical projects demonstrating practical skills in enterprise IT infrastructure management.
 
 ---
 
