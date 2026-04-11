@@ -96,34 +96,32 @@ My journey from academic research to IT has equipped me with strong analytical s
 **Additional Certifications:**
 - Microsoft Entra ID for Administrators
 - Planning for Hybrid Active Directory Environments
-- Windows 11 for IT Support and Security (Advanced, Intermediate, Basics Troubleshooting)
+- Windows 11 for IT Support and Security (Advanced)
 - Google Cybersecurity Professional Certificate
 - TryHackMe: Security Operations Center Analyst (Level 1)
 - tryHachMe: Cybersecurity 101
 - Cisco: Introduction to Cybersecurity
 - Jira Service Management: Administration
-- IT Help Desk for Beginners
+
 
 ---
 
 ## 🚀 Projects
 
 ### ☁️ Azure Cloud Infrastructure Lab
-**Repository:** [Azure-Cloud-Infrastructure-Lab](https://github.com/lionelmsango/Azure-Cloud-Infrastructure-Lab)
+**Repository:** [Azure-Cloud-Infrastructure-Lab](https://github.com/lionelmsango/intune-modern-workplace-lab)
 
-Built a production-ready cloud infrastructure on Microsoft Azure demonstrating enterprise IaaS deployment and cost optimization:
-- ✅ Virtual Network (10.1.0.0/16) with subnet segmentation for application servers
-- ✅ Network Security Groups with IP-restricted firewall rules (least-privilege access model)
-- ✅ Windows Server 2022 VM deployment with auto-shutdown configuration
-- ✅ Azure Blob Storage (LRS) with soft delete protection (7-day retention)
-- ✅ Recovery Services Vault with automated daily backups (30-day retention policy)
-- ✅ Cost Management with multi-threshold budget alerts (50%/75%/90%)
-- ✅ 95% cost reduction through VM deallocation strategy (~$40/month savings)
-- ✅ Network topology visualization via Azure Network Watcher
-- ✅ Total project cost: <€1 through strategic resource management
-- ✅ Complete documentation with network diagram and 17 implementation screenshots
+Built a complete zero-trust endpoint management environment using Microsoft Intune:
+- ✅  Device enrolled via Entra ID join on VMware Windows 11 Pro
+- ✅ Compliance policy enforcing BitLocker, Firewall, Defender with full remediation cycle documented
+- ✅ Conditional Access blocking non-compliant devices from all M365 cloud apps
+- ✅ Windows 365 Security Baseline deployed with Update Ring (7-day quality / 30-day feature deferral)
+- ✅  M365 Apps deployed via Intune + 7-Zip packaged as Win32 app using IntuneWinAppUtil.exe
+- ✅ Android MAM BYOD policy protecting Outlook, Teams, and OneDrive without full enrollment
+- ✅ Complete walkthrough documentation with 24 screenshots
+  
 
-**Skills Demonstrated:** Azure cloud infrastructure, Virtual networking and subnetting, Network Security Groups (NSG), Windows Server administration, Azure Backup and disaster recovery, Cost management and optimization, Azure Blob Storage, PowerShell connectivity testing, Network monitoring and documentation
+**Skills Demonstrated:** MDM/MAM endpoint management, Zero-trust Conditional Access, Win32 app packaging, Security baseline deployment, Update ring management, BYOD data protection
 
 ### 🔧 PowerShell IT Admin Automation
 **Repository:** [PowerShell-IT-Admin-Automation](https://github.com/lionelmsango/PowerShell-IT-Admin-Automation)
@@ -140,7 +138,21 @@ Built a production-ready automation toolkit to eliminate manual Active Directory
 
 **Skills Demonstrated:** PowerShell scripting and automation, Active Directory administration, User lifecycle management, Error handling and logging, CSV data processing, Production-ready code practices
 
-### 🔥 SIEM (Wazuh) Home Lab
+### 🔥 Microsoft Intune – Modern Workplace Endpoint Management Lab
+**Repository:** [intune-modern-workplace-lab](https://github.com/lionelmsango/wazuh-siem-lab)
+
+Built a complete security monitoring infrastructure to detect threats in real-time:
+- ✅ Wazuh SIEM v4.9 deployed on Ubuntu Server 24.04 LTS
+- ✅ Windows 11 Pro endpoint with active security agent
+- ✅ Sysmon enhanced logging (process creation, network connections, file changes)
+- ✅ Real-time threat detection and log analysis dashboard
+- ✅  Complete walkthrough documentation with 13 screenshots
+
+**Skills Demonstrated:** SIEM monitoring and detection, Network Segmentation, Sysmon for enhanced system monitoring, DHCP/NAT, VMware Virtualization
+
+---
+
+### 🔥 SIEM (Wazuh) Lab
 **Repository:** [wazuh-siem-lab](https://github.com/lionelmsango/wazuh-siem-lab)
 
 Built a complete security monitoring infrastructure to detect threats in real-time:
@@ -154,7 +166,7 @@ Built a complete security monitoring infrastructure to detect threats in real-ti
 
 ---
 
-### 🔥 pfSense Firewall Home Lab
+### 🔥 pfSense Firewall Lab
 **Repository:** [pfsense-vmware-homelab](https://github.com/lionelmsango/pfsense-vmware-homelab)
 
 Built a complete enterprise-grade network security lab from scratch:
