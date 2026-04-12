@@ -252,16 +252,6 @@ Cloud identity and productivity platform:
 
 ---
 
-## 🔍 Currently Working On
-
-- 🔐 Advanced pfSense configurations (VLANs, VPN, IDS/IPS)
-- 🌐 Site-to-site VPN lab (Bonn-Berlin simulation)
-- 🛡️ Building DMZ architecture with public-facing services
-- 📊 Network monitoring 
-- 🤖 PowerShell automation scripts for IT tasks
-
-
----
 
 <div align="center">
 
@@ -274,5 +264,5 @@ Cloud identity and productivity platform:
 
 ---
 
-*Last Updated: March 2026*  
+*Last Updated: April 2026*  
 *All projects documented with professional screenshots, detailed guides, and real-world applications*
