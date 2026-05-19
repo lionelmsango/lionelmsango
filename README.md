@@ -99,7 +99,7 @@ My journey from academic research to IT has equipped me with strong analytical s
 - Windows 11 for IT Support and Security (Advanced)
 - Google Cybersecurity Professional Certificate
 - TryHackMe: Security Operations Center Analyst (Level 1)
-- tryHachMe: Cybersecurity 101
+- TryHachMe: Cybersecurity 101
 - Cisco: Introduction to Cybersecurity
 - Jira Service Management: Administration
 
