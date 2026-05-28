@@ -25,6 +25,7 @@ My journey from academic research to IT has equipped me with strong analytical s
 
 | Project Title | Repository | Technologies Used | Description |
 |--------------|------------|-------------------|-------------|
+| **Splunk SIEM SOC Detection Lab** | [splunk-soc-detection-lab](https://github.com/lionelmsango/splunk-soc-detection-lab) | Splunk Enterprise, Sysmon, Atomic Red Team, MITRE ATT&CK, SPL, Threat Hunting | SOC analyst detection workflow with four MITRE ATT&CK attack simulations, SPL detection queries, threat hunting scenarios, saved alerts, and a custom security dashboard built on Splunk Enterprise
 | **Microsoft Defender for Endpoint Lab** | [defender-for-endpoint-lab](https://github.com/lionelmsango/defender-for-endpoint-lab) | Microsoft Defender for Business, Next-Generation Protection, Firewall Policies, EDR, Incident Investigation | Enterprise endpoint security lab with device onboarding via Local Script, real-time protection enforcement, detection testing with PowerShell alerts, incident investigation workflow, and security policy configuration |
 | **Microsoft Intune Modern Workplace Lab** | [intune-modern-workplace-lab](https://github.com/lionelmsango/intune-modern-workplace-lab) | Microsoft Intune, Entra ID, Conditional Access, MAM, Win32 App Packaging | Zero-trust endpoint management lab with device enrollment, compliance enforcement, Conditional Access integration, security baselines, app deployment, and Android MAM BYOD policy |
 | **Azure Cloud Infrastructure Lab** | [Azure-Cloud-Infrastructure-Lab](https://github.com/lionelmsango/Azure-Cloud-Infrastructure-Lab) | Azure cloud, Azure VNet segmentation, Win server 2022| Production-ready cloud infrastructure on Azure with VNet segmentation, NSG security, automated backups, and cost optimization  | automated backups | cost optimization (95% savings, <€1 total) | 
@@ -36,7 +37,6 @@ My journey from academic research to IT has equipped me with strong analytical s
 | **Jira IT Support System** | [jira-it-support-system](https://github.com/lionelmsango/jira-it-support-system) | Jira, Confluence, Automation, SLA Management | Complete ticketing workflow: 10 tickets, 92% SLA, 4.2 min P1 response, 5 KB articles, 5 automation rules |
 | **GNS3 Network Lab** | [small-office-network-gns3](https://github.com/lionelmsango/small-office-network-gns3-) | GNS3, VirtualBox, VPCS, Wireshark | Small office network simulation: NAT, switching, 192.168.1.0/24 subnet, connectivity testing |
 | **Microsoft 365 Administration** | [m365-administration-lab](https://github.com/lionelmsango/m365-administration-demo/tree/main) | Microsoft 365, Entra ID, MFA, Conditional Access | 50+-user organization setup, MFA deployment, security policies, bulk provisioning |
-| **Detection Lab** | [detection-lab](https://github.com/lionelmsango/Detection-Lab) | Splunk, Windows Event Logs, Sysmon|
 
 ---
 
